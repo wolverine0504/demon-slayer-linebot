@@ -1,0 +1,6 @@
+0 Nezuko
+1 Tanjiro
+2 Giyu
+3 Shinobu
+4 Kyoguro
+5 Zen
