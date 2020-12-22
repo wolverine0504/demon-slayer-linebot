@@ -170,3 +170,7 @@ if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
     # app.run()
+
+# heroku爆掉
+# 如何開啟對話接收特定訊息
+# heroku logs --tail
